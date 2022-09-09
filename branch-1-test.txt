@@ -1,1 +1,1 @@
-Dowolna linijka tekstu.
+Konfliktowa linijka tekstu.
