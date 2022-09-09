@@ -1,1 +1,1 @@
-Druga zawartość pierwszego commit.
+Trzecia azawartość pierwszego commit.
